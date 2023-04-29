@@ -1,0 +1,41 @@
+{
+  "free": {
+    "nome": "free",
+    "memory": 256,
+    "disk": 256,
+    "cpu": 10
+  },
+  "basico": {
+    "nome": "basico",
+    "memory": 512,
+    "disk": 512,
+    "io": 500,
+    "cpu": 20,
+    "price": 2.50,
+    "role": "1056222619730444348"
+  },
+  "medio": {
+    "nome": "medio",
+    "memory": 1024,
+    "disk": 1024,
+    "cpu": 30,
+    "price": 5.00,
+    "role": "1056684025844092939"
+  },
+  "avancado": {
+    "nome": "avancado",
+    "memory": 2046,
+    "disk": 2046,
+    "cpu": 40,
+    "price": 10.00,
+    "role": "1056685021051760700"
+  },
+  "final": {
+    "nome": "final",
+    "memory": 4096,
+    "disk": 4096,
+    "cpu": 40,
+    "price": 20.00,
+    "role": "1056685010515660820"
+  }
+}
